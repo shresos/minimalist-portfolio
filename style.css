@@ -55,6 +55,14 @@ a{
     margin-bottom: 10px;
 }
 
+.section-2 h3{
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+.section-2 ul li{
+    font-size: 0.9rem;
+    margin-bottom: 10px;
+}
 .section-2 p{
     font-size: 1.1rem;
     padding-bottom: 10px;
